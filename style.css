@@ -84,8 +84,19 @@ footer{
 .extra{
     margin-bottom: 30px;
 }
+.menu{
+    width: 50%;
+    padding-left: 20%;
+    box-shadow: 10px 10px 30px gray;
+    background-color: pink;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 80px;
+    border-radius: 30px;
+    
+}
 .menu a{
-    float: right;
+    
     text-decoration: none;
     background-image: linear-gradient(to right, rgb(248, 129, 149), rgb(202, 11, 11));;
     color: white;
