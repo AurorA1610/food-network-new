@@ -54,8 +54,8 @@ body{
     margin-bottom: 80px;
     border-radius: 30px;
 }
-.extra h2{
-    color: rgb(201, 41, 68);
+.extra h3{
+    color: rgb(175, 1, 30);
     text-align: center;
 }
 .menu{
@@ -98,7 +98,11 @@ button{
     font-weight: 700;
     padding: 5px 10px;
     margin-right: 10px;
+    color:white;
 }
 form{
     text-align: center;
+}
+input{
+    font-size: large;
 }
